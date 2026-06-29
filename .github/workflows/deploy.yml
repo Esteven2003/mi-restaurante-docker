@@ -29,4 +29,3 @@ jobs:
           push: true
           # Cambia "tu-usuario" por tu nombre de usuario de GitHub y "mi-restaurante" por el nombre de tu repo en minúsculas
           tags: ghcr.io/esteven2003/mi-restaurante-docker:latest
-          C:\Users\user17\Documents\restaurante_app
